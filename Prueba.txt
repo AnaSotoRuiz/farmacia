@@ -1,4 +1,8 @@
 Hola esto es una prueba
 Otra prueba
 Prueba otra
+<<<<<<< HEAD
 Hola soy ana
+=======
+Prueba nueva
+>>>>>>> f90a22c26410866d5b8788ec92f83bb462a70cb8
